@@ -29,14 +29,14 @@ function App() {
 			name: 'Harry Gardener',
 			is_married: true,
 			years_of_experience: 5,
-			age: 105,
+			age: 50,
 		},
 		{
 			id: 10,
 			name: 'Hunter Zolomon',
 			is_married: false,
 			years_of_experience: 3,
-			age: 123,
+			age: 23,
 		},
 		{
 			id: 12,
@@ -62,7 +62,7 @@ function App() {
 			key: 'age',
 		},
 		{
-			label: 'Year of Exp',
+			label: 'Years of Experience',
 			key: 'years_of_experience',
 		},
 	]
