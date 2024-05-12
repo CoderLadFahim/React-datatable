@@ -1,6 +1,6 @@
 ### Features that the table needs to have
 
-* Actions per row
+<!-- * Actions per row -->
 * Boolean Filtration
     * These will be dynamic as well
 * Displaying data with props
